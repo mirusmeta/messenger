@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477164544934",
+    "project_id": "zametki-7b291",
+    "storage_bucket": "zametki-7b291.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477164544934:android:7bb7395486d4d564936567",
+        "android_client_info": {
+          "package_name": "com.example.testa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzO3Q2O1la-pKn4OO24LV2uuqIvDd9rJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
